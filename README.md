@@ -1,6 +1,6 @@
 # Kora Manual Installation Tutorial (DigitalOcean Droplet)
 
-This repository contains a step-by-step guide for installing [Kora](https://github.com/matrix-msu/kora) — a digital repository platform — on a [DigitalOcean Droplet](https://www.digitalocean.com/).  
+This repository contains a step-by-step guide for installing [Kora](https://github.com/matrix-msu/kora), a digital repository platform, on a [DigitalOcean Droplet](https://www.digitalocean.com/).  
 It is written with **students, scholars, and cultural heritage professionals** in mind — people who are experts in their own fields but may not have much technical background.  
 
 The tutorial is designed to do two things at once:
